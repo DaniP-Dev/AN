@@ -20,3 +20,9 @@ CORRECCIÓN FINAL
 - Las tarjetas muestran parte de la siguiente para indicar el gesto lateral.
 - Restaurado el panel inferior de detalle.
 - Paleta general alineada con Ahora Noticias: morados, lavanda, blanco y gris oscuro.
+
+AJUSTE SEGÚN INDICACIÓN DOCENTE
+- El inicio permanece exactamente igual al cambiar de sección.
+- El análisis general de El Heraldo permanece fijo.
+- Cada sección muestra debajo una tarjeta con su enfoque específico tomado del Word.
+- Cambia el color de acento y la marca de sección, sin convertir la página en un diseño totalmente distinto.
