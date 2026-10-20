@@ -1,0 +1,22 @@
+INSTRUCCIONES
+1. Cierra el servidor si está ejecutándose.
+2. Abre la carpeta de tu proyecto: C:\Users\dpere\Documents\Webs\santiago
+3. Haz una copia de seguridad de la carpeta app actual.
+4. Copia TODO el contenido de esta carpeta dentro de app y acepta reemplazar.
+5. Ejecuta: npm run dev
+6. Abre: http://localhost:3000
+
+No requiere instalar paquetes adicionales.
+
+IDENTIDAD ACTUALIZADA
+- El boletín ahora se llama AHORA NOTICIAS (AN).
+- Economía, Política, Región y Cultura usan la marca AHORA NOTICIAS.
+- Deportes usa la marca D+.
+- Entretenimiento usa la marca SUPER LIKE.
+- Los logos aparecen tanto en las tarjetas como en el detalle de cada noticia.
+
+CORRECCIÓN FINAL
+- Restaurado el carrusel horizontal de tarjetas en móviles.
+- Las tarjetas muestran parte de la siguiente para indicar el gesto lateral.
+- Restaurado el panel inferior de detalle.
+- Paleta general alineada con Ahora Noticias: morados, lavanda, blanco y gris oscuro.
